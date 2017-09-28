@@ -2,7 +2,7 @@ package com.seostella.hibernate.basics.dao;
 
 import com.seostella.hibernate.basics.entity.User;
 import org.hibernate.HibernateException;
-import org.hibernate.query.Query;
+import org.hibernate.Query;
 
 
 public class UserDAO extends DAO {
